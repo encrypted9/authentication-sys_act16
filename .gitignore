@@ -33,6 +33,12 @@ migrate_working_dir/
 /build/
 /coverage/
 
+
+lib/firebase_options.dart
+macos/Runner/GoogleService-Info.plist
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
 # Symbolication related
 app.*.symbols
 
